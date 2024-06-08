@@ -3,7 +3,7 @@
 #### Technical skills: Python, SQL, R, Tableau, Looker Studio, Excel, AWS
 
 ## Education
-- M.S., Business Analytics | University of California, San Diego (_Anticipated Dec 2024_)
+- M.S., Business Analytics | University of California, San Diego (_Present_)
   > GPA 3.66/4.00
 - B.S., Civil Engineering | Chulalongkorn University (_Jul 2019_)
   > GPA 3.10/4.00
